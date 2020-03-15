@@ -1,5 +1,3 @@
-package academy.learnProgramming;
-
 import java.util.ArrayList;
 
 public class MobilePhone {
