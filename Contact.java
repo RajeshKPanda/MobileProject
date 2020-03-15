@@ -1,5 +1,3 @@
-package academy.learnProgramming;
-
 public class Contact {
 
     private String contactName;
