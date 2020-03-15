@@ -1,5 +1,3 @@
-package academy.learnProgramming;
-
 import sun.java2d.pipe.SpanIterator;
 
 import java.util.Scanner;
